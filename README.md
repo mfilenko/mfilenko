@@ -12,7 +12,7 @@ I also did some security including penetration testing.
 
 #### What I enjoy
 
-Being alive and healthy.
+Life.
 
 #### What I value
 
