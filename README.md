@@ -10,6 +10,10 @@ Previously, I've dedicated a good chunk of my professional life working in finan
 
 I also did some security including penetration testing.
 
+#### My motto
+
+"Small things make perfection, but perfection is no small thing." — Henry Royce
+
 #### What I enjoy
 
 Life.
