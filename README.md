@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+<p align="center"><strong>Max S. Filenko</strong> &sdot; <a href="https://www.filenko.ms/">Homepage</a> &sdot; <a href="https://twitter.com/itsnotaboutlife">Twitter</a> &sdot; <a href="https://stackoverflow.com/users/5325000">Stack Overflow</a> &sdot; <a href="https://u24.gov.ua/"><strong>Support 🇺🇦</strong></a></p>
 
 ### Hi there :wave:
 
