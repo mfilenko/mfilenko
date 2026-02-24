@@ -1,29 +1,113 @@
-<p align="center"><strong>Max S. Filenko</strong> &sdot; <a href="https://www.filenko.ms/">Homepage</a> &sdot; <a href="https://twitter.com/itsnotaboutlife">Twitter</a> &sdot; <a href="https://stackoverflow.com/users/5325000">Stack Overflow</a> &sdot; <a href="https://u24.gov.ua/"><strong>Support 🇺🇦</strong></a></p>
+<h1 align="center">Hi — I'm Max</h1>
 
-### Hi there :wave:
+<p align="center">
+  Staff+ Engineer • Systems Thinker • Builder of Calm, Boring Infrastructure™
+</p>
 
-My name is Max and I'm a back-end engineer based in Hamburg, Germany.
+<p align="center">
+  I design systems that survive scale, audits, outages, and Monday mornings.
+</p>
 
-#### What I do
+## What I Do
 
-I currently support [FREE NOW](https://free-now.com/) in their pivot from a pure taxi app to a multimodal mobility platform. People call this industry '[urban mobility](https://ec.europa.eu/transport/themes/urban/urban_mobility_en)'.
+- Architect distributed systems and cloud platforms
+- Turn ambiguous product problems into shipped software
+- Reduce operational risk through automation and observability
+- Coach engineers into senior and staff-level impact
 
-Previously, I've dedicated a good chunk of my professional life working in financial technology.
+I optimize for **long-term velocity**, not short-term heroics.
 
-I also did some security including penetration testing.
+---
 
-#### My motto
+## Current Focus
 
-&ldquo;Small things make perfection, but perfection is&nbsp;no&nbsp;small thing.&rdquo;&nbsp;&mdash; Henry Royce
+- Distributed backend systems
+- Large-scale data systems
+- Cloud infrastructure
+- Reliability engineering (SLOs > vibes)
+- Cost-aware cloud architecture
+- AI-assisted engineering workflows
 
-#### What I enjoy
+---
 
-Life.
+## Impact
 
-#### What I value
+- Built systems processing millions of daily events
+- Improved deployment frequency from monthly → daily
+- Reduced cloud costs through architecture redesign
+- Introduced observability practices across services
 
-Simplicity.
+---
 
-#### What I'm trying to eschew
+## Expertise
 
-Meetings.
+### Backend Systems
+- API platform design
+- High concurrency services
+- Distributed transactions
+- Performance optimization
+
+### Data Platforms
+- Streaming pipelines
+- Warehousing
+- Data reliability engineering
+
+### Infrastructure
+- AWS cloud architecture
+- Infrastructure as Code
+- Container orchestration
+
+---
+
+## Technology
+
+Languages:
+Kotlin • Python • Java • SQL
+
+Data:
+Kafka • PostgreSQL • Airflow • dbt • Spark • Snowflake
+
+Infrastructure:
+AWS • Terraform • Docker
+
+Observability:
+OpenTelemetry • Prometheus • Grafana
+
+---
+
+## Philosophy
+
+- Reliability over novelty
+- Measure before optimizing
+- Automate repetitive work
+- Document decisions
+- Prefer boring technology in production
+
+---
+
+## Currently Interested In
+
+- Platform engineering
+- Data-intensive applications
+- Data contracts
+- Observability
+- Event-driven architectures
+- Cost-efficient cloud systems
+
+---
+
+## Working With Me
+
+I enjoy collaborating on:
+
+- Platform engineering
+- Staff+ role growth
+- Architecture reviews
+- Hard production problems
+
+---
+
+## 📫 Contact
+
+- LinkedIn → https://linkedin.com/in/mfilenko
+- Email → hire@filenko.ms
