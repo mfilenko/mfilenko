@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I design and operate SaaS systems in **regulated environments (legal tech, audit-heavy workflows)** that scale under growth, audits, outages, and real business pressure.
+  I design and operate SaaS systems in <strong>regulated environments (legal tech, audit-heavy workflows)</strong> that scale under growth, audits, outages, and real business pressure.
 </p>
 
 ---
