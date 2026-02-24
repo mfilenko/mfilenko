@@ -1,113 +1,125 @@
-<h1 align="center">Hi — I'm Max</h1>
+<h1 align="center">Max Filenko</h1>
 
 <p align="center">
-  Staff+ Engineer • Systems Thinker • Builder of Calm, Boring Infrastructure™
+  Staff+ Engineer • Platform Architect • Systems Builder
 </p>
 
 <p align="center">
-  I design systems that survive scale, audits, outages, and Monday mornings.
+  I design and operate SaaS systems in regulated environments (legal tech, audit-heavy workflows) that scale under growth, audits, outages, and real business pressure.
 </p>
-
-## What I Do
-
-- Architect distributed systems and cloud platforms
-- Turn ambiguous product problems into shipped software
-- Reduce operational risk through automation and observability
-- Coach engineers into senior and staff-level impact
-
-I optimize for **long-term velocity**, not short-term heroics.
-
----
-
-## Current Focus
-
-- Distributed backend systems
-- Large-scale data systems
-- Cloud infrastructure
-- Reliability engineering (SLOs > vibes)
-- Cost-aware cloud architecture
-- AI-assisted engineering workflows
 
 ---
 
 ## Impact
 
-- Built systems processing millions of daily events
-- Improved deployment frequency from monthly → daily
-- Reduced cloud costs through architecture redesign
-- Introduced observability practices across services
+* Designed distributed platforms processing **millions of daily events across production services**
+* Increased deployment frequency **from monthly releases to daily delivery**
+* Reduced cloud spend through architecture redesign and workload optimization
+* Introduced organization-wide **observability and reliability practices**
+* Turned ambiguous product initiatives into shipped, maintainable systems
 
 ---
 
-## Expertise
+## What I Do
 
-### Backend Systems
-- API platform design
-- High concurrency services
-- Distributed transactions
-- Performance optimization
+I work at the intersection of **engineering execution, architecture, and business outcomes**.
 
-### Data Platforms
-- Streaming pipelines
-- Warehousing
-- Data reliability engineering
+* Architect distributed backend and data platforms
+* Translate product ambiguity into pragmatic technical direction
+* Build reliable cloud infrastructure and internal platforms
+* Reduce operational risk through automation and observability
+* Coach engineers toward senior and staff-level impact
 
-### Infrastructure
-- AWS cloud architecture
-- Infrastructure as Code
-- Container orchestration
+I optimize for **long-term delivery speed**, not short-term heroics.
+
+---
+
+## Core Expertise
+
+### Distributed Backend Systems
+
+* API platform design
+* Event-driven architectures
+* High-concurrency services
+* Performance and scalability engineering
+* Distributed transactions and failure handling
+
+### Data & Platform Engineering
+
+* Streaming and batch data pipelines
+* Data reliability engineering
+* Warehousing and analytics foundations
+* Internal developer platforms
+
+### Cloud Infrastructure & Reliability
+
+* AWS architecture and cost optimization
+* Infrastructure as Code
+* Production readiness and incident response
+* SLO-driven reliability engineering
 
 ---
 
 ## Technology
 
-Languages:
+**Languages**
 Kotlin • Python • Java • SQL
 
-Data:
+**Data Systems**
 Kafka • PostgreSQL • Airflow • dbt • Spark • Snowflake
 
-Infrastructure:
+**Infrastructure**
 AWS • Terraform • Docker
 
-Observability:
+**Observability**
 OpenTelemetry • Prometheus • Grafana
 
 ---
 
 ## Philosophy
 
-- Reliability over novelty
-- Measure before optimizing
-- Automate repetitive work
-- Document decisions
-- Prefer boring technology in production
+* Reliability over novelty
+* Simple systems scale better than clever ones
+* Measure before optimizing
+* Automating repetitive work compounds engineering output
+* Architecture exists to enable product velocity
 
 ---
 
-## Currently Interested In
+## Selected Work
 
-- Platform engineering
-- Data-intensive applications
-- Data contracts
-- Observability
-- Event-driven architectures
-- Cost-efficient cloud systems
+Examples of problems I enjoy solving:
 
----
-
-## Working With Me
-
-I enjoy collaborating on:
-
-- Platform engineering
-- Staff+ role growth
-- Architecture reviews
-- Hard production problems
+* High-throughput event ingestion and processing platforms
+* Developer platforms improving team delivery speed
+* Organization-wide observability adoption
+* Cost-efficient cloud architectures at scale
+* Data-intensive backend systems
 
 ---
 
-## 📫 Contact
+## Currently Focused On
 
-- LinkedIn → https://linkedin.com/in/mfilenko
-- Email → hire@filenko.ms
+* Platform engineering
+* Data-intensive applications
+* Event-driven systems
+* Observability and reliability engineering
+* AI-assisted engineering workflows
+
+---
+
+## Collaboration
+
+Interested in:
+
+* Early-stage or scaling technical leadership
+* Architecture reviews and technical due diligence
+* Platform and infrastructure strategy
+* Hard production problems
+
+---
+
+## Contact
+
+* LinkedIn → https://linkedin.com/in/mfilenko
+* Email → [hello@filenko.ms](mailto:hello@filenko.ms)
